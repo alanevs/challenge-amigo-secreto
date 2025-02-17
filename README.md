@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo permitir al usuario ingresar nombres de amigos
 El código permite al usuario:
 
 1. **Agregar amigos a una lista**: Introduciendo un nombre en un campo de texto y presionando un botón para añadirlo a la lista.
-2. **Mostrar la lista de amigos**: Los amigos se muestran en una lista desordenada en la interfaz web.
+2. **Mostrar la lista de amigos**: Los amigos se muestran en una lista en la interfaz web.
 3. **Sortear un amigo aleatorio**: Cuando se hace el sorteo, el código selecciona un nombre aleatorio de la lista y lo muestra en pantalla.
 
 ## Funciones principales
